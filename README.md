@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/gdcristea/intro-section-with-dropdown-navigation
+- Solution URL: https://github.com/gdcristea/art-gallery-website
 
-- Live Site URL: https://gdcristea.github.io/intro-section-with-dropdown-navigation/
+- Live Site URL: https://gdcristea.github.io/art-gallery-website/
 
 ## Author
 
